@@ -1,0 +1,14 @@
+.list-item {
+  width: 20%;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.project {
+  height: 145px;
+  width: 100%;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.title {
+  font-family: 'roboto';
+}
